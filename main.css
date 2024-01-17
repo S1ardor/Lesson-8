@@ -1,0 +1,21 @@
+.push__push-elements {
+    margin-top: 10px;
+}
+
+.box__style {
+    background-color: rgb(16, 99, 171);
+    color: #0f0;
+    text-align: center;
+    padding: 11px 0;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.delete__button-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
